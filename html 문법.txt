@@ -1,0 +1,33 @@
+<strong></strong> 글짜 굵기
+<u></u> 글자 밑줄
+<h1></h1> 글자 크기 ( 1 ~ 6 )
+<br></br> 단락 변경 1
+<p></p> 단락 변경 2
+ㄴ<p style="margin-top:45px;"> 45픽셀 만큼 줄 간격 띄우기
+
+<img> 이미지 파일
+ㄴ<img width="100" src="파일명">
+
+<li></li> 목차
+<ul></ul> 목차 2
+<ol></ol> 숫자 달린 목차
+
+<title></title> 웹 페이지 이름
+<meta charset="utf-8"> 한글 표기
+
+html 국룰
+<!doctype html>
+<html>
+
+ <head>
+ 머릿글
+ </head>
+
+ <body>
+ 본문
+ </body>
+
+</html>
+
+<a href=""></a> 하이퍼링크
+ㄴtarget="_blank" 새탭 띄우기

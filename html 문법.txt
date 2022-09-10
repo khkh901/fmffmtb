@@ -5,7 +5,7 @@
 <p></p> 단락 변경 2
 ㄴ<p style="margin-top:45px;"> 45픽셀 만큼 줄 간격 띄우기
 
-<img> 이미지 파일
+<img> 이미지 파일 
 ㄴ<img width="100" src="파일명">
 
 <li></li> 목차
@@ -31,3 +31,4 @@ html 국룰
 
 <a href=""></a> 하이퍼링크
 ㄴtarget="_blank" 새탭 띄우기
+ㄴtitle="" 툴팁 띄우기
